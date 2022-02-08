@@ -11,3 +11,4 @@ Name, Year, Major
 * Benji Hall, Senior, Computer Science 
 * Hunter Whalen, Senior, Computer Science
 * Bryan Boyer, Senior, Computer Science
+* Ivan Sledge ,Senior ,Computer Science

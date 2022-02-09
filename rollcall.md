@@ -12,3 +12,4 @@ Name, Year, Major
 * Hunter Whalen, Senior, Computer Science
 * Bryan Boyer, Senior, Computer Science
 * Ivan Sledge ,Senior ,Computer Science
+* Austin Charles, Senior, Computer Science

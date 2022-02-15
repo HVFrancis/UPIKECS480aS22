@@ -1,12 +1,12 @@
 Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
-# Rollcall
+Rollcall
+=========
 
+Name, Year, Major
+--------------
 
-## Name, Year, Major
-
-
-* **Howard Francis**, Faculty, Math/Computer Science
+* Howard Francis, Faculty, Math/Computer Science
 * Cody Morehead, Junior, Computer Science
 * Rachel Coleman, Senior, Computer Science
 * Benji Hall, Senior, Computer Science 

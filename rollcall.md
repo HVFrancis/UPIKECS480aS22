@@ -14,3 +14,4 @@ Name, Year, Major
 * Bryan Boyer, Senior, Computer Science
 * Ivan Sledge ,Senior ,Computer Science
 * Austin Charles, Senior, Computer Science
+* Isiah Iricks, Senior, Computer Science

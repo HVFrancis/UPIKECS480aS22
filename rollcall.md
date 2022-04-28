@@ -15,3 +15,4 @@ Name, Year, Major
 * Ivan Sledge ,Senior ,Computer Science
 * Austin Charles, Senior, Computer Science
 * Isiah Iricks, Senior, Computer Science
+* Keaten Combs, Junior, Computer Science
